@@ -11,7 +11,7 @@ if(!isset($_SESSION['sess_user'])){
 <head>
 <style>
 body {
-	text-align:center;font-family:courier;color:Black;background-image: url("bg.jpg");
+	text-align:center;font-family:courier;color:Black;background-image: url("assets/bg.jpg");
 	height: 100%; 
 
   /* Center and scale the image nicely */

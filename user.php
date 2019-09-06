@@ -9,7 +9,7 @@ if(!isset($_SESSION['sess_user'])){
 <head>
 <style>
 body{
-	background:url('trade.jpg') no-repeat;
+	background:url('assets/trade.jpg') no-repeat;
 	background-size:cover;
 	font-family:Arial;
 	color:white;

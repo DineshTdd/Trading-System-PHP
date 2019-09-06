@@ -13,7 +13,7 @@ if(!isset($_SESSION["sess_user"])){
  padding:100px;
 }
 body {
-	text-align:center;font-family:courier;color:Black;background-image: url("bg.jpg");
+	text-align:center;font-family:courier;color:Black;background-image: url("assets/bg.jpg");
 	height: 100%; 
 
   /* Center and scale the image nicely */
@@ -40,10 +40,10 @@ Available Items
 <div class="top">
 <form action>
 <a href="dolls.php">
-<img src="dolls.jpg" class="i" width="200" height="200" border="3">
+<img src="assets/dolls.jpg" class="i" width="200" height="200" border="3">
 </a>
 <a href="perf.php">
-<img src="perf.jpg"  class ="i" width="200" height="200" border="3">
+<img src="assets/perf.jpg"  class ="i" width="200" height="200" border="3">
 </a>
 </form>
 </div>
