@@ -277,7 +277,7 @@ span.psw {
   }
 
   body{
-    background-image: url("assets/ice.jpg");
+    background-image: url("image-assets/ice.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -505,7 +505,7 @@ if ( window.history.replaceState ) {
 </script>
  <h1 style="text-align:center;font-family: 'Concert One', cursive;font-size:60px">WELCOME TO FOREIGN TRADING SYSTEM</h1>
 </head>
-<body class="asyncImage" data-src="assets/ice-min.jpg" >
+<body class="asyncImage" data-src="image-assets/ice-min.jpg" >
 
  <div class="page-wrap">
   <div class="penguin">
@@ -561,7 +561,7 @@ if ( window.history.replaceState ) {
   <form class="modal-content animate" method="POST" action="">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-      <img src="assets/img_avatar2.png" alt="Avatar" class="avatar">
+      <img src="image-assets/img_avatar2.png" alt="Avatar" class="avatar">
     </div>
 
     <div class="container">
